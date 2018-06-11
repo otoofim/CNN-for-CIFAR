@@ -1,0 +1,7 @@
+End of epoch 01: err(train)=2.23 acc(train)=0.16
+End of epoch 02: err(train)=1.98 acc(train)=0.28
+End of epoch 03: err(train)=1.82 acc(train)=0.34
+End of epoch 04: err(train)=1.73 acc(train)=0.37
+End of epoch 05: err(train)=1.66 acc(train)=0.39
+                 err(valid)=1.57 acc(valid)=0.44
+End of epoch 06: err(train)=1.61 acc(train)=0.41

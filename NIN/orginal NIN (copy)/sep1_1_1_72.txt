@@ -1,0 +1,3 @@
+End of epoch 01: err(train)=2.30 acc(train)=0.10
+End of epoch 02: err(train)=2.30 acc(train)=0.10
+End of epoch 01: err(train)=2.30 acc(train)=0.10
